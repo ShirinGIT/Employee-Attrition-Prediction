@@ -31,5 +31,5 @@ Based on the conclusions drawn from the analysis, the following recommendations 
 2. Promote Career Growth: Ensure timely promotions and clear career progression paths to retain employees, particularly those who have not been promoted in the last 0-5 years.
 3. Work-Life Balance: Foster a healthy work-life balance by providing flexible work arrangements and managing workloads to prevent excessive overtime.
 4. Training Programs: Focus on the quality and relevance of training programs rather than the number of sessions. Tailor training to meet employees' career goals and job requirements.
-5. 5. Competitive Compensation: Review and adjust compensation packages to ensure they are competitive and reflect employees' performance and contributions.
+5. Competitive Compensation: Review and adjust compensation packages to ensure they are competitive and reflect employees' performance and contributions.
 6. Improve Workplace Culture: Enhance the work environment and culture to foster a supportive and engaging atmosphere, which can help reduce attrition.
