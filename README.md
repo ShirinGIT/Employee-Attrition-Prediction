@@ -27,16 +27,9 @@ This project showcases the practical application of machine learning in HR analy
 Recommendations
 
 Based on the conclusions drawn from the analysis, the following recommendations are suggested:
-
-    Enhance Job Satisfaction: Implement programs to improve job satisfaction, especially for employees with satisfaction levels below 3. This could include regular feedback, recognition, and career development opportunities.
-
-    Promote Career Growth: Ensure timely promotions and clear career progression paths to retain employees, particularly those who have not been promoted in the last 0-5 years.
-
-    Work-Life Balance: Foster a healthy work-life balance by providing flexible work arrangements and managing workloads to prevent excessive overtime.
-
-    Training Programs: Focus on the quality and relevance of training programs rather than the number of sessions. Tailor training to meet employees' career goals and job requirements.
-
-    Competitive Compensation: Review and adjust compensation packages to ensure they are competitive and reflect employees' performance and contributions.
-
-    Improve Workplace Culture: Enhance the work environment and culture to foster a supportive and engaging atmosphere, which can help reduce attrition.
-
+    1. Enhance Job Satisfaction: Implement programs to improve job satisfaction, especially for employees with satisfaction levels below 3. This could include regular feedback, recognition, and career development opportunities.
+    2. Promote Career Growth: Ensure timely promotions and clear career progression paths to retain employees, particularly those who have not been promoted in the last 0-5 years.
+    3. Work-Life Balance: Foster a healthy work-life balance by providing flexible work arrangements and managing workloads to prevent excessive overtime.
+    4. Training Programs: Focus on the quality and relevance of training programs rather than the number of sessions. Tailor training to meet employees' career goals and job requirements.
+    5. Competitive Compensation: Review and adjust compensation packages to ensure they are competitive and reflect employees' performance and contributions.
+    6. Improve Workplace Culture: Enhance the work environment and culture to foster a supportive and engaging atmosphere, which can help reduce attrition.
